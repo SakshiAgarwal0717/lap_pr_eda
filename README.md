@@ -1,2 +1,2 @@
 # lap_pr_eda
-EDA Analysis of lap_pr_csv
+EDA Analysis of laptop-prices.csv file 
